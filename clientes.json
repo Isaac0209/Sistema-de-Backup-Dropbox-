@@ -1,0 +1,22 @@
+{
+    "Ofx": {
+        "nomePasta": "ERP2",
+        "servername": "localhost",
+        "username":"root",
+        "password": "isaacroque0209",
+        "dbname": "erp",
+        "Pastas": {
+            "imgs": {
+                "nome": "imgs",
+                "caminho":"C:\\Users\\narut\\Documents\\Projetos\\ERP\\public\\imgs"
+            },
+            "imgs_produtos": {
+                "nome": "imgs_produtos",
+                "caminho":"C:\\Users\\narut\\Documents\\Projetos\\ERP\\public\\imgs_produtos"
+            }
+            
+        }
+    }
+    
+    
+}
